@@ -3,10 +3,14 @@
 Sign in part
 
 ![Screenshot from 2022-12-05 15-09-16](https://user-images.githubusercontent.com/91268003/205664142-ac243e53-d7b4-4d6c-85a4-d4bfb50cc17b.png)
+
 The case of unauthenticated.
 ![Screenshot from 2022-12-05 15-09-51](https://user-images.githubusercontent.com/91268003/205664313-114f272d-e1d8-429e-ac13-0ca9e9fdf606.png)
+
 Authenticated
+
 ![Screenshot from 2022-12-05 15-10-23](https://user-images.githubusercontent.com/91268003/205664371-f5efb9dd-ebf9-4037-9040-49f737e74e47.png)
+
 
 Sign up part
 
