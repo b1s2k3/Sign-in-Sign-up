@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  line-height: 2.5em;
+  margin: 4em auto;
+  width: 300px;
+  background-color: antiquewhite;
+}
+
+.login-container {
+  border: 3px solid plum;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.8em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  border-radius: 15px;
+  background-color: rgb(217, 194, 198);
+  box-shadow: 7px 10px 5px yellowgreen;
+}
+
+button {
+  margin-top: 5px;
+  border-radius: 15%;
+  padding: 4px;
+  background-color: rgb(181, 219, 206);
+  border: 2px solid rgb(170, 170, 240);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.register-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#regex-msg {
+  font-size: 9px;
+  line-height: 10px;
+  text-align: center;
+  margin-top: 0.5em;
+}
+
+.checkbox {
+  margin-top: 5px;
+}
+
+.msg {
+  font-size: 1em;
+  color: rgb(85, 14, 14);
+}
+
+#fail-vld {
+  border: solid;
+  height: 100px;
+  background-color: rgba(153, 55, 55, 0.434);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
